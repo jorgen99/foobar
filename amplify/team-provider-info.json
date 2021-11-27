@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-foobar-dev-171029-authRole",
+      "UnauthRoleArn": "arn:aws:iam::534681061886:role/amplify-foobar-dev-171029-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::534681061886:role/amplify-foobar-dev-171029-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-foobar-dev-171029-deployment",
+      "UnauthRoleName": "amplify-foobar-dev-171029-unauthRole",
+      "StackName": "amplify-foobar-dev-171029",
+      "StackId": "arn:aws:cloudformation:eu-west-1:534681061886:stack/amplify-foobar-dev-171029/8c7c1f80-4f9c-11ec-b5d6-0a8374ae319b",
+      "AmplifyAppId": "dsh1mnpo2cgi5"
+    }
+  }
+}
